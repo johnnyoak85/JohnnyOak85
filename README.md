@@ -130,7 +130,7 @@ I like reliable infra, clean architecture, and code that reads like someone care
 
 ## 📫 Contact & Privacy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/joaopmcarvalho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/carvalhojo)
 [![Website](https://img.shields.io/badge/Website-000000)](https://johnnyoak85.github.io)
 
 <div align="center">
