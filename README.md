@@ -4,7 +4,7 @@
 
 # **João Carvalho**
 
-### _Full Stack Developer • Fedora Enjoyer • Professional Button Masher_
+### _Full Stack Developer • Linux User • Professional Button Masher_
 
 ![Views](https://komarev.com/ghpvc/?username=JohnnyOak85&style=flat&color=blue)
 
@@ -49,8 +49,8 @@ I like reliable infra, clean architecture, and code that reads like someone care
 
 ### 🖥 **IronOak — Main Workstation**
 
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
-![KDE](https://img.shields.io/badge/KDE-1D99F3?logo=kde&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
+![XFCE](https://img.shields.io/badge/XFCE-2284F2?logo=xfce&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white)
 ![Plex](https://img.shields.io/badge/Plex-E5A00D?logo=plex&logoColor=white)
 
@@ -105,7 +105,9 @@ I like reliable infra, clean architecture, and code that reads like someone care
 
 2025 ─ Developer Experience tutor arc: Teaching devs how not to suffer needlessly.
 
-2025 ─ Fedora era: Daily driver chosen. Zero regrets. Package manager does *not* demand sacrifices.
+2025 ─ Fedora era: Daily driver experiment. Learned the limits of rolling-forward distributions.
+
+2025 ─ Debian era: Stability-first workstation. Tooling over trends.
 
 2026 ─ Neovim training begins: Pray for my wrists.
 ```
@@ -122,7 +124,7 @@ I like reliable infra, clean architecture, and code that reads like someone care
 ## 🏆 Achievements Unlocked
 
 - 🔧 Fixed Linux systems without reinstalling (usually)
-- 🐧 Fedora daily driver (happy camper)
+- 🐧 Linux daily driver (stable, boring, intentional)
 - 🐙 Git: rebase, cherry-pick, merge conflict slayer
 - 📦 Containerized stacks (Podman/Docker) in production-ish environments
 - 🛰 Raspberry Pi services running reliably (AcornPi)
